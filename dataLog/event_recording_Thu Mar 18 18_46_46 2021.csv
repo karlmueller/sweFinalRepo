@@ -1,0 +1,5 @@
+PARAMS,swe-User,G Threshold =>,1.47,,Fall Detect Frequency [Hz],10,,,
+Time_Begin,Thu Mar 18 18:46:46 2021,,Fall Event Recorded?,True,,False Positive?,True,,
+Time End,Thu Mar 18 18:46:46 2021,,Fall Time,Thu Mar 18 18:46:46 2021,1616107606.7973697,,,
+,,,,,,,,,
+Epoch Time [s],Quat_1,Quat_2,Quat_3,Quat_4,Lin_Acc_1,Lin_Acc_2,Lin_Acc_3,C.O.P._x,C.O.P._y
